@@ -22,6 +22,7 @@ chat_icon.click()
 
 scroll_box = WebDriverWait(driver, delay).until(EC.presence_of_element_located((
     By.XPATH, '/html/body/div[1]/div/div/div[2]/div[1]/span/div/span/div/div[2]')))
+sleep(3)
 
 people=[]
 ht = driver.execute_script("return arguments[0].scrollHeight;", scroll_box)
@@ -37,5 +38,6 @@ while last_ht <= ht:
                                     return {last_ht+72*15}""",scroll_box)
     df=pd.DataFrame(people)
     df.to_csv('peoples.csv',index=False)
+    print(df.shape[0])
 driver.quit()
 print(t.toc())
