@@ -1,4 +1,4 @@
-# WhatsApp Web Contact List Fetcher
+# [![Build Status](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT25cWKvJzO6NPpJ7SU-FQy6SYetdL3_6mdqLWV45V0xH2U6HGu&s)](https://github.com/rupesh-biswas/WhatsApp_Web_Contacts)WhatsApp Web Contact List Fetcher
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/rupesh-biswas/WhatsApp_Web_Contacts)
 
