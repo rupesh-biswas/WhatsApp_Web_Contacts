@@ -1,11 +1,11 @@
 # WhatsApp Web Contact List Fetcher
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/rupesh-biswas/Instagram_Unfollowers)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/rupesh-biswas/WhatsApp_Web_Contacts)
 
 WhatsApp Web Contact List Fetcher is selenium based webscraper which gives a list of people in your contact list using WhatsApp.
 
-  - Requirements
-  - How to run
+  - [Requirements](https://github.com/rupesh-biswas/WhatsApp_Web_Contacts#Requirements)
+  - [How to run](https://github.com/rupesh-biswas/WhatsApp_Web_Contacts#How-to-run)
 
 # Requirements
   - Python3 (https://www.python.org/downloads/)
